@@ -19,7 +19,7 @@
 The offices is an application to add and list offices.
 
 ## :page_with_curl: How to use
-- **Clone the repository** `gt clone https://github.com/pablomagalhaes/theoffices`
+- **Clone the repository** `git clone https://github.com/pablomagalhaes/theoffices`
 - **Front-end** 
     - ```cd theoffices```
     - ```yarn```
