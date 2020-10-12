@@ -15,8 +15,8 @@
 - [Tailwind.js](https://tailwindcss.com/)
 - [Sass](https://sass-lang.com/)
 
-## :computer: Projeto
-The offices is an application to add and list offices.
+## :computer: Application
+Application created for the a test for the Senior Frontend Developer at Dog and Pony Studios
 
 ## :page_with_curl: How to use
 - **Clone the repository** `git clone https://github.com/pablomagalhaes/theoffices`
