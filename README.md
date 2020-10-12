@@ -11,6 +11,9 @@
  
 - [Node.js](https://nodejs.org/en/) 
 - [Vue.js](https://jp.vuejs.org/)
+- [Nuxtjs](https://nuxtjs.org/)
+- [Tailwind.js](https://tailwindcss.com/)
+- [Sass](https://sass-lang.com/)
 
 ## :computer: Projeto
 The offices is an application to add and list offices.
@@ -20,7 +23,8 @@ The offices is an application to add and list offices.
 - **Front-end** 
     - ```cd theoffices```
     - ```yarn```
-    - ```yarn dev```
+    - ```yarn dev``` - To Develop 
+    - ```yarn build``` - To generate build 
 
 ## :computer: Front-End Web :heavy_check_mark:
 
